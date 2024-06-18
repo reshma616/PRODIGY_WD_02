@@ -6,6 +6,7 @@
 Sleek Design: Designed with a clean and modern interface using HTML for structure and CSS for styling.
 Interactive Functionality: Implemented JavaScript for precise time tracking and seamless start, stop, and reset functionalities.
 User-Friendly Experience: Ensured intuitive controls for effortless use and enhanced accessibility.
+
 🔧 Technological Insights:
 Throughout the development process, I delved into JavaScript's capabilities in handling events and managing intervals, solidifying my skills in front-end programming. It was rewarding to see how these technologies come together to create a responsive and functional application.
 
